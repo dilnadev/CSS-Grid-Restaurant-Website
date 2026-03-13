@@ -1,1 +1,1 @@
-A stylish and responsive restaurant website built with HTML, CSS, and CSS Grid. This project focuses on clean layout design, modern UI structure, and improving front-end development skills.
+This is a restaurant website project built using HTML and CSS. I used CSS Grid to create a responsive and structured layout. This project helped me improve my front-end design and layout skills.
